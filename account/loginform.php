@@ -9,6 +9,7 @@ if (isset($_POST['treasure2'])) {
 
 		$myusername = stripslashes($myusername);
 		$mypassword = stripslashes($mypassword);
+		
  
 $user = $myusername;
 $password = $mypassword;
